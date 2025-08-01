@@ -1,4 +1,4 @@
-# SQL_Data_Analytics
+
 # 📊 SQL Data Analytics
 
 This repository contains two SQL-based data projects focused on cleaning and analyzing a global layoffs dataset. Each project follows a structured approach to prepare the data and uncover valuable insights.
